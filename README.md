@@ -1,6 +1,6 @@
 # H
 Replaces every key with "h". Use ctrl+h to stop it.
 #
-If you know how to ameliorate the script contact me.
+The script isn't perfect, so if you know how to ameliorate it please contact me at radiump123@gmail.com.
 # 
 Demonstration (Hello World!): hhhhhhhhhhhhh
